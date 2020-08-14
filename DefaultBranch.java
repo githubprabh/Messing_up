@@ -1,1 +1,1 @@
-sysout something
+system.out.println("something");
